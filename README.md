@@ -72,12 +72,14 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ank-d&show_icons=true&locale=en&theme=dark" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ank-d&layout=compact&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ank-d&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ank-d&layout=compact&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ank-d&show_icons=true&locale=en&theme=dark" /></p>
+
+
 
 </div>
 
