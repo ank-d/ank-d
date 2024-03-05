@@ -59,15 +59,7 @@ Here are some ideas to get you started:
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ank-d/ank-d/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -79,10 +71,18 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ank-d&show_icons=true&locale=en&theme=dark" /></p>
 
-
-
 </div>
 
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ank-d/ank-d/output/github-contribution-grid-snake.svg" />
+<!--   ![snake gif](https://github.com/ank-d/ank-d/blob/output/github-contribution-grid-snake.svg) -->
+  <br/><br/><br/>
+</div>
 <br/><br/>
 
 <hr/>
